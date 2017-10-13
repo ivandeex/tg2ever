@@ -1,4 +1,8 @@
-/.venv/
-/.idea/
+.venv/
+.idea/
 *.pyc
 __pycache__
+photos/
+tg2ever.ini
+tg2ever.sesson
+tg2ever.json
